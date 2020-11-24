@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void cehua2(View view) {
+        System.out.println("123456");
     }
 }
